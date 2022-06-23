@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05d78fb2-d984-402a-adee-494940d4c103": {
+      "ProjectGuid": "05d78fb2-d984-402a-adee-494940d4c103",
+      "DisplayName": "PatronProxy",
+      "ColorIndex": 0
+    },
+    "24c29b8e-567e-4276-921d-5aeba25d2d23": {
+      "ProjectGuid": "24c29b8e-567e-4276-921d-5aeba25d2d23",
+      "DisplayName": "Proxy",
+      "ColorIndex": 1
+    },
+    "940a5c2a-c81d-44c1-be49-ed184ecf1ce6": {
+      "ProjectGuid": "940a5c2a-c81d-44c1-be49-ed184ecf1ce6",
+      "DisplayName": "ProxyAplication",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

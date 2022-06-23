@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProxyAplication/1.0.0": {
+        "dependencies": {
+          "Proxy": "1.0.0"
+        },
+        "runtime": {
+          "ProxyAplication.dll": {}
+        }
+      },
+      "Proxy/1.0.0": {
+        "runtime": {
+          "Proxy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProxyAplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Proxy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

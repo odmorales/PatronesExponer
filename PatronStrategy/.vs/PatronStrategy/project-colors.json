@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2ea0135-51b2-4474-932c-a02f5040d591": {
+      "ProjectGuid": "a2ea0135-51b2-4474-932c-a02f5040d591",
+      "DisplayName": "PatronStrategy",
+      "ColorIndex": 0
+    },
+    "0d93497f-56c7-4c16-9533-a8e2e731c605": {
+      "ProjectGuid": "0d93497f-56c7-4c16-9533-a8e2e731c605",
+      "DisplayName": "Entity",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

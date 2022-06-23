@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PatronProxy/1.0.0": {
+        "dependencies": {
+          "Proxy": "1.0.0",
+          "ProxyAplication": "1.0.0"
+        },
+        "runtime": {
+          "PatronProxy.dll": {}
+        }
+      },
+      "Proxy/1.0.0": {
+        "runtime": {
+          "Proxy.dll": {}
+        }
+      },
+      "ProxyAplication/1.0.0": {
+        "dependencies": {
+          "Proxy": "1.0.0"
+        },
+        "runtime": {
+          "ProxyAplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatronProxy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Proxy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProxyAplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

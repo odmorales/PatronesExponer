@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\PatronProxy\\PatronProxy.csproj": {}
+  },
+  "projects": {
+    "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\PatronProxy\\PatronProxy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\PatronProxy\\PatronProxy.csproj",
+        "projectName": "PatronProxy",
+        "projectPath": "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\PatronProxy\\PatronProxy.csproj",
+        "packagesPath": "C:\\Users\\OdMorales\\.nuget\\packages\\",
+        "outputPath": "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\PatronProxy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OdMorales\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\ProxyAplication\\ProxyAplication.csproj": {
+                "projectPath": "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\ProxyAplication\\ProxyAplication.csproj"
+              },
+              "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\Proxy\\Proxy.csproj": {
+                "projectPath": "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\Proxy\\Proxy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\ProxyAplication\\ProxyAplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\ProxyAplication\\ProxyAplication.csproj",
+        "projectName": "ProxyAplication",
+        "projectPath": "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\ProxyAplication\\ProxyAplication.csproj",
+        "packagesPath": "C:\\Users\\OdMorales\\.nuget\\packages\\",
+        "outputPath": "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\ProxyAplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OdMorales\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\Proxy\\Proxy.csproj": {
+                "projectPath": "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\Proxy\\Proxy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\Proxy\\Proxy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\Proxy\\Proxy.csproj",
+        "projectName": "Proxy",
+        "projectPath": "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\Proxy\\Proxy.csproj",
+        "packagesPath": "C:\\Users\\OdMorales\\.nuget\\packages\\",
+        "outputPath": "D:\\Noveno semestre\\Electiva 3\\Proyectos\\PatronProxy\\Proxy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OdMorales\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
